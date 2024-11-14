@@ -11,7 +11,7 @@
 
 ## :memo: Descrição
 
-Integração do `event-exporter` do Kubernetes para enviar notificações de eventos para o Microsoft Teams. Essa configuração permite que a equipe de operações e desenvolvimento receba alertas em tempo real sobre eventos críticos, facilitando a monitoração e a resposta a incidentes
+Integração do `event-exporter` do Kubernetes para enviar notificações de eventos para o Microsoft Teams. Essa configuração permite que a equipe de operações e desenvolvimento receba alertas em tempo real sobre eventos críticos, facilitando a monitoração e a resposta a incidentes.
 
 ### :rocket: Iniciando a POC
 
