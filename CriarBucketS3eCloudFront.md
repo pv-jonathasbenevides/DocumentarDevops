@@ -12,7 +12,7 @@
 
 <p align="center">Este guia fornece instruções passo a passo para criar e configurar um bucket S3 na AWS, criar uma URL pública usando CloudFront e garantir que o acesso direto ao bucket seja bloqueado, permitindo apenas o acesso através do CloudFront.</p>
 
-### :wrench: Tecnologias utilizadas.
+### :wrench: Tecnologias utilizadas
 * Tecnologia: ``Aws`` ``Bucket S3`` ``Cloudfront``
  
     <img alt="AWS" src="https://github.com/conexasaude/pv-documentar-devops/blob/master/img/s3.png" width="200px" />
