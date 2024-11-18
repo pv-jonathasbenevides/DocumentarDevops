@@ -8,7 +8,7 @@
   </div>
 
 
-<h1 align="center">📦 Guia como criar um Bucket S3 e CloudFront 🌐</h1>
+<h1 align="center">📦 Guia como criar um Bucket S3 e CloudFront, 🌐</h1>
 
 <p align="center">Este guia fornece instruções passo a passo para criar e configurar um bucket S3 na AWS, criar uma URL pública usando CloudFront e garantir que o acesso direto ao bucket seja bloqueado, permitindo apenas o acesso através do CloudFront.</p>
 
