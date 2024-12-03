@@ -1,4 +1,4 @@
-# 📁 **Do Github ao Argo CD em um Ambiente AWS EKS**
+## 📁 **Pipeline Automatizado de Desenvolvimento e Deploy no AWS EKS**
 
 <div align="center">
   <img src="https://github.com/conexasaude/pv-documentar-devops/blob/master/img/Argogiteks.gif" alt="Fluxo GitOps" style="width: 80%; border-radius: 10px; margin-bottom: 20px;">
