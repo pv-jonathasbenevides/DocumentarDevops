@@ -223,16 +223,3 @@ O fluxo de implantação do **ms-surveys** pode ser resumido da seguinte forma:
 [ ] Conectividade com RabbitMQ validada
 [ ] Host HML respondendo corretamente
 ```
-
----
-
-## 8. Referências
-
-- [NestJS Documentation](https://docs.nestjs.com/)
-- [Amazon EKS Documentation](https://docs.aws.amazon.com/eks/)
-- [GitHub Actions Documentation](https://docs.github.com/actions)
-- [Argo CD Documentation](https://argo-cd.readthedocs.io/)
-- [AWS Secrets Manager Documentation](https://docs.aws.amazon.com/secretsmanager/)
-- [External Secrets Operator Documentation](https://external-secrets.io/)
-- [RabbitMQ Documentation](https://www.rabbitmq.com/docs)
-- [RabbitMQ Management Plugin](https://www.rabbitmq.com/docs/management)
